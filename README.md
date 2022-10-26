@@ -17,13 +17,13 @@ The project completed an election audit by calculating key indicators in both th
 
 ## Election-Audit Results
 	There were three candidates who received votes in the elections, with one clear winner.
--The three candidates who received votes:
+1. The three candidates who received votes:
 	- Charles Casper Stockham
 	- Diana DeGette
 	- Raymon Anthony Doane
--Total number of votes cast:
+2. Total number of votes cast:
 	- 369,711
--Breakdown of votes (and percentage of total votes for each county)
+3. Breakdown of votes (and percentage of total votes for each county)
 	- The results are as follow:
 		1. Diana DeGetter: 73.8% of votes (receiving 272,892 out of the 369,711 votes)
 		2. Charles Casper Stockham: 23% of votes (receiving 85,213 out of the 369,711 votes)
@@ -32,9 +32,11 @@ The project completed an election audit by calculating key indicators in both th
 		1. Denver: 82.8% of votes (306,055 votes were cast in Denver alone out of 369,711 votes)
 		2. Jefferson: 10.5% of votes (38,855 votes were cast in Jefferson out of 369,711 votes)
 		3. Arapahoe: 6.7% of votes (24,801 votes were cast in Arapahoe)
-*County with the largest number of votes:
+
+
+1. County with the largest number of votes:
 	- Denver county had the largest number of votes with 306,055 votes cast.
-*Candidate who won the election (along with vote count and percentage):
+2. Candidate who won the election (along with vote count and percentage):
 	- Diana DeGetter won the popular vote with 272,892 votes cast in their name. Diana DeGetter received 73.8% of the votes.
 
 ## Election-Audit Summary
