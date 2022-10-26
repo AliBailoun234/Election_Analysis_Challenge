@@ -51,5 +51,5 @@ county-options = []
 ```
 
 Hence, the general format of the script can be used, albeit with some modifications, for any election. Some modifications may include:
-1. Depending on the data file used, the script might have to change for example the county to perhaps states, and maybe add more information about cities, depending on election that is on board.
-2. The script could be modified to include perhaps only showing candidates that received more than a certain percentage, if there are several candidates that are running for office. This will narrow down the list of candidates that will appear in the end results.
+1. Depending on the data file used, the script might have to change for example the county to perhaps states, zones, countries in some cases.
+2. The script could be modified to include perhaps only showing candidates that won based on a majority of counties or states, rather than popular vote.
