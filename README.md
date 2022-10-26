@@ -17,13 +17,13 @@ The project completed an election audit by calculating key indicators in both th
 
 ## Election-Audit Results
 	There were three candidates who received votes in the elections, with one clear winner.
-*The three candidates who received votes:
+-The three candidates who received votes:
 	- Charles Casper Stockham
 	- Diana DeGette
 	- Raymon Anthony Doane
-*Total number of votes cast:
+-Total number of votes cast:
 	- 369,711
-*Breakdown of votes (and percentage of total votes for each county)
+-Breakdown of votes (and percentage of total votes for each county)
 	- The results are as follow:
 		1. Diana DeGetter: 73.8% of votes (receiving 272,892 out of the 369,711 votes)
 		2. Charles Casper Stockham: 23% of votes (receiving 85,213 out of the 369,711 votes)
